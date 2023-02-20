@@ -1,0 +1,7 @@
+.Spinner {
+    border: 5px solid #08f;
+    border-bottom: transparent;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
